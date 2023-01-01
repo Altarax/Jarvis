@@ -2,7 +2,7 @@
 Just trying to have fun creating an homemade assistant using Chat GPT API.
 
 # Goals
-[x] - Be faster. Complicated because it's the time that take ChatGPT that slow everything  
+[x] - Be faster. Complicated because it's basically the time that takes ChatGPT that slows everything  
 [x] - Connect my ESP32 devices to control my house with the assistant  
 [x] - Connect it to internet for meteo and news (can't use GPT for this)  
 [x] - Deploy it on a Raspberry Pi  
